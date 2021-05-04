@@ -1,2 +1,1 @@
-# Menamoste-website
-Website of Menamoste
+# M-namoste_WebSite.github.io
